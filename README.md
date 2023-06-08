@@ -2,7 +2,12 @@
 
 GitHub repository documenting my Linux learning journey.
 
-# Scripting languages used
+# 1.Scripting languages used
 
-Python
-Shell
+  1.1 Python
+  1.2 Shell
+  
+
+
+ 
+  
